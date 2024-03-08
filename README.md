@@ -1,6 +1,4 @@
 ## Hey 👋, I'm Atef Bahri!
-<a href='https://www.linkedin.com/in/yasser-mejri-646600225/'><img align='left' alt="linkedin" src="https://yassermej.herokuapp.com/images/linked.jpg" height='18px'/></a>
-<br/>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
@@ -11,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Familiar with RestFul/GraphQL APIs, automation, Shopify, healthcare/fitness, and responsive design
+- 🌱 &nbsp; Familiar with RestFul/GraphQL APIs, automation, Svelte, healthcare/fitness, and responsive design
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atef-bahri-606b782b3/)
 - 📚 &nbsp; When I am free, I play tennis and football.
