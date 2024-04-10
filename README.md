@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently freelancing.
-- 🌱 &nbsp; Familiar with Javascript/Typescript, React/Vue/Svelte, NodeJS/ExpressJS/RestFul/GraphQL APIs, Automation, healthcare/fitness, and responsive design
+- 🌱 &nbsp; Familiar with Javascript/Typescript, React/Vue/Svelte, React Native/Flutter, NodeJS/ExpressJS/RestFul/GraphQL APIs, Automation, healthcare/fitness, and responsive design
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atef-bahri-606b782b3/)
 - 📚 &nbsp; When I am free, I play tennis and football.
